@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://oneps.io/sitemap.xml
+Sitemap: https://oneps.in/sitemap.xml
